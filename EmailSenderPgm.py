@@ -5,14 +5,6 @@
 
 
 
-# Example usage with multiple recipients
-'''sender_email = 'neha.bio2004@gmail.com'
-sender_password = 'zqgg kcaj khor hcts'
-receiver_emails = ['neha.llsacc123@gmail.com,leelavathi.devi123@gmail.com']
-subject = 'Test Email '
-message = 'This is a test email sent using Python to multiple recievers.'
-
-send_email(sender_email, sender_password, receiver_emails, subject, message)'''
 
 
 
