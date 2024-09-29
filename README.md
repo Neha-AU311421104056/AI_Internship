@@ -1,1 +1,1 @@
-# AI_Internship
+# Python Development Internship
