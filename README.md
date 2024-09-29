@@ -1,1 +1,1 @@
-# Python Development Internship
+# Infogerm Python Development Internship
